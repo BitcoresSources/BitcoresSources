@@ -1,5 +1,5 @@
 # Bitcores Sources
-copyright 2020-2021 by bitcores ([website](http://bitcore-s2.ml))
+copyright 2020-2021 by bitcores ([website](http://bitcore-s2.ml))([website dryginbase](http://dryginbase.ml/))
 
 version DCL: 2.0 
 
