@@ -8,3 +8,7 @@ version DCL: 2.0
 [twitter: @bitcores1](http://twitter.com/bitcores1)
 
 [twitter: @dryginbase](http://twitter.com/dryginbase)
+
+@dryginbase
+
+@bitcores1
