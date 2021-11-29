@@ -12,3 +12,5 @@ version DCL: 2.0
 @dryginbase
 
 @bitcores1
+
+SCDL/PDL = Dryginbase Librarys (Project)
