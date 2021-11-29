@@ -13,7 +13,7 @@ version DCL: 2.0
 
 @bitcores1
 
-# NOTE
+# NOTE (\PIIF)
 
 SC,PSC = sources code
 
