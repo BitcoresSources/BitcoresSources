@@ -13,4 +13,6 @@ version DCL: 2.0
 
 @bitcores1
 
-SCDL/PDL = Dryginbase Librarys (Project)
+SCDL,PDL,SCODL,PSCODL = Sources code dryginbase & dryginbase library (Project)
+LIUC,LIB = line is under construction
+
