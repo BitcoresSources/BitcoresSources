@@ -13,6 +13,18 @@ version DCL: 2.0
 
 @bitcores1
 
-SCDL,PDL,SCODL,PSCODL = Sources code dryginbase & dryginbase library (Project)
+# NOTE
+
+SC,PSC = sources code
+
 LIUC,LIB = line is under construction
+
+TP,BP,TBP = project peta
+
+PHD = project has dead
+
+LFVD = limit for version device
+
+TPHNBORY,PHNBORY = The project has not been officially released yet
+
 
