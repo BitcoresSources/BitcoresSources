@@ -25,6 +25,8 @@ PHD = project has dead
 
 LFVD = limit for version device
 
-TPHNBORY,PHNBORY = The project has not been officially released yet
+TPHNBORY,PHNBORY = the project has not been officially released yet
+
+WNBOR = will not be officially released
 
 
